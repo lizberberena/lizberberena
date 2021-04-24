@@ -4,7 +4,7 @@
 - Here's my business card. ***Hands you [[lizberberena.com](https://lizberberena.com)]***.
 - I made a gallery where you can [see my drawings](https://lizberberena.com/art).
 - I'm learning German and Polish (slowly) y hablo español.
-- Get in touch via [email](mailto:hi@lizberberena.com)!
+- Get in touch via [email](mailto:hi@lizberberena.com).
 
 ### All Versions of My Portfolio
 
