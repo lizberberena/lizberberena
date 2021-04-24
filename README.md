@@ -2,7 +2,7 @@
 
 - I’m currently working full-time as a web producer for The Lynx Group.
 - Here's my business card. ***Hands you [[lizberberena.com](https://lizberberena.com)]***.
-- [See my art](https://lizberberena.com/art).
+- I made a gallery where you can [see my drawings](https://lizberberena.com/art).
 - I’m currently learning German and Polish (slowly).
 - Get in touch via [email](mailto:hi@lizberberena.com)!
 
