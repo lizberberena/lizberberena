@@ -1,4 +1,4 @@
-### Hello! 👋 My name is Liz Berberena, and I'm a front-end web developer.
+## Hello! 👋 My name is Liz Berberena, and I'm a front-end web developer.
 
 - I’m currently working full-time as a web producer for The Lynx Group.
 - Here's my business card. ***Hands you [[lizberberena.com](https://lizberberena.com)]***.
