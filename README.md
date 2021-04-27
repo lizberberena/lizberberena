@@ -3,7 +3,7 @@
 - I’m currently working full-time as a web producer for The Lynx Group.
 - Here's my business card. ***Hands you [[lizberberena.com](https://lizberberena.com)]***.
 - I made a gallery where you can [see my drawings](https://lizberberena.com/art).
-- I'm learning German and Polish (slowly) y hablo español.
+- I'm learning German and Polish (slowly) y soy Cubana.
 - Get in touch via [email](mailto:hi@lizberberena.com).
 
 ### All Versions of My Portfolio
