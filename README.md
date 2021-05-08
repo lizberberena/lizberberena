@@ -8,7 +8,7 @@
 
 ### All Versions of My Portfolio
 
-- [2021-Now](https://github.com/lizberberena/lizberberena.github.io)
+- [2021-now](https://github.com/lizberberena/lizberberena.github.io)
 - [2020-2021](https://github.com/lizberberena/2021)
 - [2019-2020](https://github.com/lizberberena/2020)
 - [2018-2019](https://github.com/lizberberena/2019)
