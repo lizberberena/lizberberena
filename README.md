@@ -13,8 +13,8 @@
 - [2019-2020](https://github.com/lizberberena/2020)
 - [2018-2019](https://github.com/lizberberena/2019)
 - [2017-2018](https://github.com/lizberberena/2018)
-- [2017](https://github.com/lizberberena/2017)
-- [2016?-2017](https://github.com/lizberberena/2016)
+- [Late 2017](https://github.com/lizberberena/late-2017)
+- [Mid-2017](https://github.com/lizberberena/mid-2017)
 
 ### Games
 
