@@ -11,8 +11,8 @@
 - [2021](https://github.com/lizberberena/lizberberena.github.io)
 - [2020-2021](https://github.com/lizberberena/2021)
 - [2019-2020](https://github.com/lizberberena/2020)
-- [2018-2019](https://github.com/lizberberena/2019)
-- [2017-2018](https://github.com/lizberberena/2018)
+- [Mid-2018](https://github.com/lizberberena/mid-2018)
+- [Early 2018](https://github.com/lizberberena/early-2018)
 - [Late 2017](https://github.com/lizberberena/late-2017)
 - [Mid-2017](https://github.com/lizberberena/mid-2017)
 
