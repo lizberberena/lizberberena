@@ -22,9 +22,9 @@ Click <a href="https://drive.google.com/drive/folders/1qI0wfO3N7_VMUbWJEn4bfNL5P
 
 Games I have made:
 
-- <a href="http://lizberberena.com/projects/metalloid" target="_blank">Metalloid</a>
-- <a href="http://lizberberena.com/projects/phony-reality" target="_blank">Phony Reality</a>
-- <a href="http://lizberberena.com/projects/tic-tac-toe" target="_blank">Tic Tac Toe</a>
+- <a href="https://lizberberena.com/2020/projects/metalloid" target="_blank">Metalloid</a>
+- <a href="https://lizberberena.com/2020/projects/phony-reality" target="_blank">Phony Reality</a>
+- <a href="https://lizberberena.com/2020/projects/tic-tac-toe" target="_blank">Tic Tac Toe</a>
 - <a href="http://github.com/lizberberena/cs-blackjack" target="_blank">BlackJack</a>
 - <a href="https://github.com/lizberberena/oop-text-adventure" target="_blank">Haunted House Text Adventure</a>
 
