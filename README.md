@@ -1,3 +1,5 @@
+Note: Most of my websites are currently not loading their stylesheets. I will fix this when time permits.
+
 ## Hi! My name is Liz Berberena, and I'm a front-end web developer. ✌️
 
 - I’m currently working full-time as a web producer for The Lynx Group.
