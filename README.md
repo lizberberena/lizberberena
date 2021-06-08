@@ -1,10 +1,8 @@
 ## Hi! My name is Liz Berberena, and I'm a front-end web developer. ✌️
 
-- I’m currently working full-time as a web producer for The Lynx Group.
-- Here's my business card. ***Hands you [[lizberberena.com](https://lizberberena.com)]***.
-- I made a gallery where you can [see my drawings](https://lizberberena.com/art).
-- I'm learning German and Polish (slowly) y soy Cubana. 🇨🇺 🇺🇸
-- Get in touch via [email](mailto:hi@lizberberena.com). I am NOT currently doing freelance.
+I’m currently working full-time as a web producer for The Lynx Group. My business card is my website. ***Hands you [[lizberberena.com](https://lizberberena.com)]***. I care about animals, art, languages, technology, psychology, and the ordinary people.
+
+I made a gallery where you can [see my drawings](https://lizberberena.com/art). I speak fluent Spanish, and I'm learning German and Polish (slowly). Get in touch via [email](mailto:hi@lizberberena.com). I am NOT currently doing freelance.
 
 ### All Versions of My Portfolio
 
