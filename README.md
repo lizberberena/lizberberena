@@ -2,7 +2,9 @@
 
 I’m currently working full-time as a web producer for The Lynx Group. My business card is my website. ***Hands you [[lizberberena.com](https://lizberberena.com)]***. I care about animals, art, languages, technology, and psychology.
 
-I made a gallery where you can [see my drawings](https://lizberberena.com/art). I speak fluent Spanish, and I'm learning German and Polish (slowly). Get in touch via [email](mailto:hi@lizberberena.com). I am NOT currently doing freelance.
+I dabble a little bit in art and made a gallery where you can [see my best drawings](https://lizberberena.com/art). I speak fluent Spanish and know some French and German. I'd like to learn Polish when I get the time. I live in New Jersey with my parents, my parrotlets, and soon my beloved fiancé Andrew.
+
+Get in touch via [email](mailto:hi@lizberberena.com). I am NOT currently doing freelance.
 
 ### All Versions of My Portfolio
 
